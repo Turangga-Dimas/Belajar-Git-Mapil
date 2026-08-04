@@ -3,4 +3,7 @@ rawr/
 
 #EVIIIEEEEEEEEEEEEE
 karti.py
-evi,py
+evi.py
+
+.env
+*.py
